@@ -1,0 +1,59 @@
+.top-level-post {
+  padding: 1em;
+  background-color: lightgreen;
+}
+
+.forums-form {
+  margin: 1em;
+}
+
+.input-group {
+  margin: 5px;
+}
+
+.input-group label {
+  display: inline-block;
+  width: 5em;
+}
+
+.post-list {
+  width: 700px;
+  margin: 3px;
+  padding: 10px;
+}
+
+.post-item-main {
+  background-color: beige;
+  width: 100%;
+  margin: 5px;
+  border: 1px solid lightblue;
+}
+
+.post-item-message {
+  padding: 10px;
+  margin-bottom: 5px;
+}
+
+.post-item-reply {
+  margin-left: 30px;
+
+}
+
+.post-item-header {
+  background-color: lightblue;
+  padding: 10px;
+}
+
+.post-item-footer {
+  background-color:lightcyan;
+  width: 50px;
+  width: 100%;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.post-item-actions button {
+  border: none;
+  border-radius: 5px;
+  background-color: cornflowerblue;
+}
